@@ -1,6 +1,10 @@
-\documentclass{article}
+\documentclass[sigtbd]{sigtbd17-style}
 
+\usepackage{amsfonts}
+\usepackage{censor}
 \usepackage{color}
+\usepackage{graphicx}
+\usepackage{hyperref}
 \usepackage{xspace}
 
 % \todo macro
@@ -10,13 +14,21 @@
 \newcommand{\premium}{Gold Plus\xspace}
 
 \begin{document}
+
+\title{\todo{Something} presents OpenAdcess}
+\maketitle
+
+\begin{abstract}
+  \todo{Abstract}
+\end{abstract}
+
 \section{Introduction}
 
 \section{Related Work}
 
 \input{digital-library}
 
-\section{Paper Sponsorships}
+\input{paper-sponsorships}
 
 \input{future-work}
 
