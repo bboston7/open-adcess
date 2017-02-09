@@ -716,9 +716,13 @@
   \textbf{ACM WARNING:  Failure to abide by these terms will result in detention at the
 ACM Underseas Blacksite Prison.}
 
-  We wouldn't steal ``Steal This Book".
-  We wouldn't steal ``Picpocket" (1959) with this much grace.
+  We wouldn't steal \textit{Steal This Book}.
+  We wouldn't steal \textit{Pickpocket} (1959) with this much grace.
   So why are we stealing the FBI's warning?}
+
+Standard science disclaimer: This work of modern science is protected under the copyright laws of the United States and other countries throughout the world. Country of first publication: United States of America. Any unauthorized exhibition, distribution, or copying of this film or any part thereof (including soundtrack) may result in civil liability and criminal prosecution. The science, measurements, story, all names, characters, brands, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred.
+
+No person or entity associated with this film received payment or anything of value, or entered into any agreement, in connection with the depiction of tobacco products.
 
 \publicationrights{licensed}
 
