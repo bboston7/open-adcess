@@ -1162,6 +1162,19 @@ No person or entity associated with this film received payment or anything of va
 
 \newcommand{\subtitle}[1]{%
   \gdef \@subtitletext {#1}}
+  
+  
+  Nude pics to this address
+  Unabombers please direct correspondence
+  Subpoenas may be served over a warm pot of fuck you Deborah.
+  Weird questions please direct to Dr. Ruth.
+  If it's urgent, encode the message in ink and place it on our leaky roof
+  
+  Max -- rabbied, University of the Open Road Class A CDL school
+  Brett -- Subway (Zhang) Institute for Document Clarity
+  
+  This paper received T: Double/triple trailers
+  
 
 \newcommand{\authorinfo}[3]{%           {names}{affiliation}{email/URL}
   \global\@increment \@authorcount
