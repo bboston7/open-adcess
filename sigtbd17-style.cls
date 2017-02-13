@@ -1169,11 +1169,14 @@ No person or entity associated with this film received payment or anything of va
   Subpoenas may be served over a warm pot of fuck you Deborah.
   Weird questions please direct to Dr. Ruth.
   If it's urgent, encode the message in ink and place it on our leaky roof
+  If you have correspondence for Rand Paul, please fart in his general direction the way he farts in the general direction of America
+  Postmaster, please direct mediocre gunfights to the O.K. Corral.
   
-  Max -- rabbied, University of the Open Road Class A CDL school
+  Max -- rabbied at Discount Rabbi Warehouse, University of the Open Road Class A CDL school
   Brett -- Subway (Zhang) Institute for Document Clarity
   
   This paper received T: Double/triple trailers
+  
   
 
 \newcommand{\authorinfo}[3]{%           {names}{affiliation}{email/URL}
