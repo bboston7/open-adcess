@@ -1164,18 +1164,24 @@ No person or entity associated with this film received payment or anything of va
   \gdef \@subtitletext {#1}}
   
   
+  research funded by selling counterfeit reprints of papers. The way we get the profit margin is we don't pay for the original copy -- we write a new article 
+  We also don't pay our loitering tickets (which means we can't get all self-righteous about public services' only mostly benefiting the rich but that's okay)
+  
   Nude pics to this address
-  Unabombers please direct correspondence
+  Unabombers please direct correspondence to our rivals who nearly scooped us.
   Subpoenas may be served over a warm pot of fuck you Deborah.
   Weird questions please direct to Dr. Ruth.
-  If it's urgent, encode the message in ink and place it on our leaky roof
+  If it's urgent, encode the message in water and place it on our leaky roof
   If you have correspondence for Rand Paul, please fart in his general direction the way he farts in the general direction of America
   Postmaster, please direct mediocre gunfights to the O.K. Corral.
   
   Max -- rabbied at Discount Rabbi Warehouse, University of the Open Road Class A CDL school
   Brett -- Subway (Zhang) Institute for Document Clarity
+  computational shakirics dropped out of PhD didn't want to turn 30 while writing a dissertation instead did so while in trucking school hips don't lie birth certificates can lie...slow trucking movement
   
   This paper received T: Double/triple trailers
+  
+  Come on, Tanya. Get back into the stream of life.
   
   
 
