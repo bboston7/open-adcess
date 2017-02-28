@@ -56,10 +56,23 @@ The \premium tier will cost \todo{rate} but will allow unlimited downloads and
 will not be rate limited.
 
 
-\subsection{Outsourced Captias}
-\todo{Force free-tier users to solve a captia, but the captia is actually from
-  another site and we collect money from spammers to solve these captias ala
-mechanical turk}
+\subsection{Outsourced Captchas}
+When a user requests a paper download, they will be required to submit a
+captcha.
+While many websites use captcha to prevent automated abuse, we see an
+opportunity to profit.
+We provide an API to botnets with which they may submit captchas to be
+displayed to users attempting to download files.
+Their responses to these captchas are sent back to the botnet thus allowing the
+botnet to proceed with whatever attack the captcha was preventing.
+We believe we can sell this human captcha solving service for a few cents per
+captcha.
+
+Additionally, users will not question the presence of captchas on the digital
+library as they have already been conditioned to fill captchas for all sorts of
+free services.
+As such, we do not believe that our user base will know that the ACM is
+slinging captcha solutions on the side.
 
 \subsection{ACM Digital Library Toolbar}
 Like Java, every ACM paper will come as an executable.
