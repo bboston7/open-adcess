@@ -6,3 +6,5 @@
 *.pdf
 *.swp
 *.gz
+*.bbl
+*.blg
