@@ -702,27 +702,17 @@
   contact the Owner/Author.}
 
 \def \rightsstatementlicensed {%
-  Permission to make digital or hard copies of part or all of this work for
-  personal or classroom use is granted without fee provided that copies are
-  not made or distributed for profit or commercial advantage and that copies
-  bear this notice and the full citation on the first page. Copyrights for
-  components of this work owned by others than ACM must be honored.
-  Abstracting with credit is permitted. To copy otherwise, to republish, to
-  post on servers, or to redistribute to lists, contact the Owner/Author.
-  Request permissions from permissions@acm.org or Publications Dept., ACM,
-  Inc., fax +1~(212) 869-0481.  Copyright \@copyrightyear\ held by Owner/Author.
-  Publication Rights Licensed to ACM.
-
   \textbf{ACM WARNING:  Failure to abide by these terms will result in detention at the
 ACM Underseas Blacksite Prison.}
 
   We wouldn't steal \textit{Steal This Book}.
   We wouldn't steal \textit{Pickpocket} (1959) with this much grace.
-  So why are we stealing the FBI's warning?}
+  So why are we stealing the FBI's warning?
 
 Standard science disclaimer: This work of modern science is protected under the copyright laws of the United States and other countries throughout the world. Country of first publication: United States of America. Any unauthorized exhibition, distribution, or copying of this film or any part thereof (including soundtrack) may result in civil liability and criminal prosecution. The science, measurements, story, all names, characters, brands, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred.
 
 No person or entity associated with this film received payment or anything of value, or entered into any agreement, in connection with the depiction of tobacco products.
+}
 
 \publicationrights{licensed}
 
