@@ -1,9 +1,11 @@
 \section{Digital Library}
-Shady websites have long managed to monetize content downloads.
-To provide free access to papers, we can follow their model by making the
-following changes.
+\label{sec:lib}
+Shady websites have long managed to monetize free content downloads.
+Below we detail the ways in which we can follow their example to provide free
+access to papers.
 
 \subsection{Fake Download Buttons}
+\label{sec:fake}
 
 Fake download buttons are a staple of modern download websites. They really class up the web. Reifying, elegizing, and idealizing nature, these abstract forms with rococo garnishes direct the downloader's attention away from the url to the ad-serving service to which the button points. A deceptive d\'{e}tournement, the premonitory placement of these blissed-out buttons challenges browsers to consider whether they really want to download the paper -- they could, after all, not pursue their line of inquiry and instead watch it evolve vicariously -- which cuts down on the ACM's hosting costs.
 
@@ -12,7 +14,7 @@ create ads that look like download buttons, advertisers can deceive users into
 clicking an ad.
 The advertiser and the ACM both profit off of these deceptive ads as the user
 is redirected to see the advertiser's product while the ACM gets the revenue
-for an impression. Some regulators have questioned this practice. But we believe it is a win-win-win for consumers \footnote{Gary Cohn, the director of the National Economic Council, stressed in an interview with *The Wall Street Journal* compared a website without fake-download buttons to the menu at P.J. Bland's: ``This is like putting only health food on the menu, because unhealthy food tastes good. But you still shouldn?t eat it because you might die younger." The menus of a free society, in his reckoning, should include both unhealthy and healthy items, and they should be labeled and priced identically. It should be impossible for consumers to access independent, third-party statistics about menu items. ``We believe our customers are informed and engaged, and we trust that they are smart enough to make the decisions that are right for them. We don't want the government treating them like dotards," the Gary Cohns said in unison.}.
+for an impression. Some regulators have questioned this practice. But we believe it is a win-win-win for consumers \footnote{Gary Cohn, the director of the National Economic Council, stressed in an interview with *The Wall Street Journal* compared a website without fake-download buttons to the menu at P.J. Bland's: ``This is like putting only health food on the menu, because unhealthy food tastes good. But you still shouldn't eat it because you might die younger." The menus of a free society, in his reckoning, should include both unhealthy and healthy items, and they should be labeled and priced identically. It should be impossible for consumers to access independent, third-party statistics about menu items. ``We believe our customers are informed and engaged, and we trust that they are smart enough to make the decisions that are right for them. We don't want the government treating them like dotards," Gary Cohn said to the lobbyists who inform and engage him.}.
 
 
 Additionally, these download buttons could be functional in that they download
@@ -40,33 +42,47 @@ positioning of the ads and therefore we hope to drive more clicks to our ad
 partners and generate more revenue for the ACM.
 
 \subsection{Rate Limited Free Downloads}
+\label{sec:limit}
 Free download sites figured out long ago that you can make people pay for an
 otherwise free product by making the process of obtaining that free product
 difficult.
 Therefore, we will split our digital library downloads into two tiers, the free
 tier and the \premium tier.
 
-The free tier will only allow downloads at \todo{rate} and no more than one
-paper download per day.
-Additionally, the user will be required to watch an upgrade screen
-\todo{explain this} count down for 10 minutes before the download button is
+The free tier will only allow downloads at slow speeds and no more than one
+paper per day.
+Additionally, the user will be required to stare at a screen compelling them to
+upgrade while a counter decrements for 10 minutes before the download button is
 clickable.
 If the website loses focus, the counter will be restarted.
-The \premium tier will cost \todo{rate} but will allow unlimited downloads and
-will not be rate limited.
+The \premium tier will allow unlimited downloads and will not be rate limited.
 
 
-\subsection{Outsourced Captias}
-\todo{Force free-tier users to solve a captia, but the captia is actually from
-  another site and we collect money from spammers to solve these captias ala
-mechanical turk}
+\subsection{Outsourced Captchas}
+When a user requests a paper download, they will be required to submit a
+captcha.
+While many websites use captcha to prevent automated abuse, we see an
+opportunity to profit.
+We provide an API to botnets with which they may submit captchas to be
+displayed to users attempting to download files.
+Their responses to these captchas are sent back to the botnet thus allowing the
+botnet to proceed with whatever attack the captcha was preventing.
+We believe we can sell this human captcha solving service for a few cents per
+captcha.
+
+Additionally, users will not question the presence of captchas on the digital
+library as they have already been conditioned to fill captchas for all sorts of
+free services.
+As such, we do not believe that our user base will know that the ACM is
+slinging captcha solutions on the side.
 
 \subsection{ACM Digital Library Toolbar}
-Like Java, every ACM paper will come as an executable.
+Every ACM paper will be distributed as an executable.
 Running this executable will ``install" the paper to the users desktop.
-The only purpose of the install is to push the ACM Digital Library toolbar.
+The only purpose of the install is to push the ACM Digital Library toolbar on
+the user.
 While the toolbar itself is optional, its installation is opt-out.
-The ACM DL toolbar will be installed for all of the users web browsers where it
+The ACM Digital Library toolbar will be installed for the user's web browsers where it
 will follow them from site to site collecting information about their browsing
 habits.
 We will then sell this information to advertisers.
@@ -80,11 +96,16 @@ dominant player in the Bitcoin economy.
 If we ever reach a simple majority of the mining power, we WILL mount a 51\%
 attack to seize control of the network for our own financial gain.
 
+In order to comply with New Jersey's backwards laws about involuntary Bitcoin
+mining \cite{tidbit}, all New Jersey residents will be preemptively banned from
+the ACM Digital Library.
+
 \subsection{Impact Factor-ometer}
 
 Researchers want their projects to have meaning and impact. Administrators like to market their department's product as meaningful and impactful. But how can researchers tell their work is saving the world?
 
 Simple. Once a quarter, the Ricketts family convokes Gary Cohn, Dennis Rodman, Colonel Sanders, and the rest of the Economic Advisory Council at Chicago's historic Wrigley Field to make use of the stadium's native Noise-ometer. As Pat Hughes reads the papers over the PA in a Charlie Brotman accent, the council---taking especial care to note the presence of key phrases like ``cross-promotional deal mechanics revenue streams jargon synergy" and ``a strategic planning initiative\ldots with a focus on strategic dynamism"---emits cheers in proportion to its perception of the paper's impact, and these cheers are registered on the Noise-ometer, which assigns metrics of impact to each paper, as shown in Figure \todo{fig:noiseometer}
+
 
 \begin{figure}
   \centering
@@ -93,5 +114,6 @@ Simple. Once a quarter, the Ricketts family convokes Gary Cohn, Dennis Rodman, C
   \caption{A model-year 1985 Noisome-ter, prized by collectors for its muted design that limns adumbrations of sound. The paper in which these meetings were proposed was met at the first such convening of the Council with a cheer so loud it registered a ``Fuck Yeah!" (not shown) on this scale.}
   \label{fig:noiseometer}
 \end{figure}
+
 
 These metrics empower our research partners to be certain their research is having a real-world impact.  It is important for researchers to know that they don't risk deactivation or exile if they remain on track.
