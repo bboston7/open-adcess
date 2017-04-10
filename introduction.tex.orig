@@ -1,0 +1,24 @@
+\section{Introduction}
+Open access is a movement to make papers and other research contributions
+freely accessible to the general public \cite{oa}.
+The ACM has been working for some time to achieve the open access dream but
+have found this dream to be prohibitively expensive.
+As such, we have required authors to opt-in to open access by paying the cost
+themselves \cite{auth}.
+However, we have found a way to provide open access papers at no cost to the
+authors by adopting the techniques employed by various websites and
+publications that manage to distribute content for free.
+
+Section~\ref{sec:related} details techniques used by other services to achieve
+free downloads and paper distribution.
+Section~\ref{sec:lib} describes the upcoming changes to the Digital Library to
+bring it up to the current standards for download portals.
+Section~\ref{sec:sponsors} adapts techniques from tabloids to ensure that
+the papers themselves are profitable.
+<<<<<<< HEAD
+Section~\ref{sec:future} describes a future that directly results from the
+a present that includes the present work.
+=======
+Section~\ref{sec:future} provides work from a future that directly results from the present work.
+
+>>>>>>> maxbranch
