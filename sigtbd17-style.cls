@@ -1153,9 +1153,13 @@ No person or entity associated with this film received payment or anything of va
 \newcommand{\subtitle}[1]{%
   \gdef \@subtitletext {#1}}
   
+  In the beginning G-d created intellectual property.
   
-  research funded by selling counterfeit reprints of papers. The way we get the profit margin is we don't pay for the original copy -- we write a new article 
-  We also don't pay our loitering tickets (which means we can't get all self-righteous about public services' only mostly benefiting the rich but that's okay)
+We're proud to say this research was funded by no grants from the Man. We bootstrapped it, funding ourselves by selling counterfeit reprints of papers. The way we keep the profit margin up is simple: we don't pay for the original copy. Instead, when a client requests a paper, we write a new article based on the abstract, imputing the introduction, materials, methods, analysis, and discussion. We believe the field of machine learning could help us automate this process, but, unfortunately, we cannot afford to read about the new techniques in that field. Another trick we recommend is to not pay loitering tickets. You can't get all self-righteous about funding public services for rich people, but you save money in the long run.
+  
+A serial entrepreneur, Max started eight companies by the age of four, including the Discount Rabbi Warehouse ("We read summaries of the Talmud so you don't have to! Life is messy enough without taking into account the supernatural.") and the University of the Open Road Class A CDL School ("Remember when you prayed to G-d, 'Give my life meaning and I?ll be your obedient slave.' Well, dispatch heard your prayers!"), and stopped nine more by the age of six. He stole 5,000 hectares of land by the age of ten.
+
+  
   
   Nude pics to this address
   Unabombers please direct correspondence to our rivals who nearly scooped us.
@@ -1165,8 +1169,11 @@ No person or entity associated with this film received payment or anything of va
   If you have correspondence for Rand Paul, please fart in his general direction the way he farts in the general direction of America
   Postmaster, please direct mediocre gunfights to the O.K. Corral.
   
+  
+  
+  
   Max -- rabbied at Discount Rabbi Warehouse, University of the Open Road Class A CDL school
-  Brett -- Subway (Zhang) Institute for Document Clarity
+  Brett -- Subway (Zhang -- wasn't studying how to reproduce class privilege) Institute for Document Clarity
   computational shakirics dropped out of PhD didn't want to turn 30 while writing a dissertation instead did so while in trucking school hips don't lie birth certificates can lie...slow trucking movement
   
   This paper received T: Double/triple trailers
